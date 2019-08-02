@@ -13,7 +13,7 @@ export default class Header extends Component {
         return (
             <div style={backgroundStyle}>
                 <view id='body'>
-                    <img src={propic} style={{ height: 100, width: 100 }} />
+                    <img src={propic} style={{ height: 100, width: 100 }} alt='profile picture'/>
                     <text id='profileName'>Md. Shafayet Jamil</text>
                 </view>
             </div>
