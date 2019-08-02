@@ -1,0 +1,16 @@
+#body{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    padding: 5%;
+}
+#profilePic{
+    height: 50;
+    width: 50;
+}
+#profileName{
+    align-self: center;
+}
+
