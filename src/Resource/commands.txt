@@ -1,0 +1,16 @@
+GIT
+----------------------------
+git add .
+git commit -m "re upload"
+git push origin master
+
+git remote add origin https://github.com/hapait/ShafayetJamil.git
+
+git fetch
+git checkout gh-pages
+git push origin gh-pages
+
+NPM
+----------------------------
+https://hapait.github.io/ShafayetJamil/
+npm run deploy

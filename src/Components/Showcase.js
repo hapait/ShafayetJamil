@@ -2,7 +2,7 @@ import React, { Component} from 'react';
 import propic from '../Assets/30_Shafayet_Jamil.jpg';
 import '../Commons/Styles.css';
 
-export default class Header extends Component {
+export default class Showcase extends Component {
 
     render() {
         return (

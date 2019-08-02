@@ -14,3 +14,11 @@
     align-self: center;
 }
 
+#footertext{
+    color: red;
+}
+#footerDiv{
+    border: 5px;
+    border-color: aqua;
+}
+
