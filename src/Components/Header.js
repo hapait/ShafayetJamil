@@ -1,6 +1,4 @@
-import React, { Component, view} from 'react';
-import { Stylesheet } from 'react';
-import logo from '../logo.svg';
+import React, { Component} from 'react';
 import propic from '../Assets/30_Shafayet_Jamil.jpg';
 import '../Commons/Styles.css';
 
